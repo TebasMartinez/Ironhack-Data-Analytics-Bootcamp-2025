@@ -1,14 +1,21 @@
 # Week 01 - Python
 
 ## Index
-- Data types
-- Arithmetic Operators
-    - Asignment Operators
-    - Comparison Operators
-    - Logical Operators
-    - Data Type Compatibility and Casting
-- String methods and functions
-- Data structures
+- Data Structures
+    - Data types
+    - Arithmetic Operators
+        - Asignment Operators
+        - Comparison Operators
+        - Logical Operators
+        - Data Type Compatibility and Casting
+    - String methods and functions
+    - Data structures
+- Flow control
+    - Conditional Statements.
+        - if
+        - elif
+        - else
+    - 
 
 ## Notes
 
