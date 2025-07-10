@@ -15,7 +15,8 @@
         - if
         - elif
         - else
-    - 
+    - etc
+- Functions
 
 ## Notes
 
@@ -55,9 +56,24 @@ int(), float(), str(), bool()
 
 ### String methods and functions
 
-### Data structures
+#### Data structures
 - Lists
 - Dictionaries
 - Sets
 - Tuples
+
+### Flow control
+
+#### Conditional Statements.
+if, elif, else
+
+### Functions
+We can create a docstring, a description to our user-defined function, with tryple quotes:
+
+````
+def square(number):
+    """Calculate the square of a number."""
+    result = number ** 2
+    return result
+````
 
