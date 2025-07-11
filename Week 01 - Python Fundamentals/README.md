@@ -68,7 +68,7 @@ int(), float(), str(), bool()
 if, elif, else
 
 ### Functions
-We can create a docstring, a description to our user-defined function, with tryple quotes:
+We can create a docstring, a description to our user-defined function, with triple quotes:
 
 ````
 def square(number):
