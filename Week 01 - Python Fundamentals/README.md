@@ -1,22 +1,12 @@
-# Week 01 - Python
+# Week 01 - Python Fundamentals
 
 ## Index
 - Data Structures
-    - Data types
-    - Arithmetic Operators
-        - Asignment Operators
-        - Comparison Operators
-        - Logical Operators
-        - Data Type Compatibility and Casting
-    - String methods and functions
-    - Data structures
 - Flow control
-    - Conditional Statements.
-        - if
-        - elif
-        - else
-    - etc
 - Functions
+- List/Dict/Set Comprehension
+- Lambda functions
+- Error handling
 
 ## Notes
 
@@ -77,3 +67,8 @@ def square(number):
     return result
 ````
 
+### Lambda functions
+They are used in higher level functions. \
+A higher level function takes as input a function and an iterable. It uses the function on the iterable. \ 
+
+The filter function only takes funcions that return a boolean value.
