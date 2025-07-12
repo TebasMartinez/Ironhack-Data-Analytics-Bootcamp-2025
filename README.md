@@ -1,7 +1,7 @@
 # Ironhack Data Analytics Bootcamp 2025
 
-# Lab repos:
-## Week 01 - Python Fundamentals
+## Lab repos:
+### Week 01 - Python Fundamentals
 - [Data Structures](https://github.com/TebasMartinez/lab-python-data-structures)
 - [Data Structures (Extended)](https://github.com/TebasMartinez/lab-python-data-structures-extra)
 - [Data Types (Extended](https://github.com/TebasMartinez/lab-python-data-types-extra)
