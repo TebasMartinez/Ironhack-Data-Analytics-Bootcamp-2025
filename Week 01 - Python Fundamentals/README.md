@@ -3,7 +3,7 @@
 ## Lab repos:
 - [Data Structures](https://github.com/TebasMartinez/lab-python-data-structures)
 - [Data Structures (Extended)](https://github.com/TebasMartinez/lab-python-data-structures-extra)
-- [Data Types (Extended](https://github.com/TebasMartinez/lab-python-data-types-extra)
+- [Data Types (Extended](https://github.com/TebasMartinez/lab-python-data-types-extra) \
 
   
 - [Flow Control](https://github.com/TebasMartinez/lab-python-flow-control)
@@ -13,7 +13,7 @@
 
 
 - [List, dict, set comprehension](https://github.com/TebasMartinez/lab-python-list-dict-set-comprehension)
-- [List, dict, set comprehension (Extended](https://github.com/TebasMartinez/lab-python-list-dict-set-comprehension-extra)
+- [List, dict, set comprehension (Extended)](https://github.com/TebasMartinez/lab-python-list-dict-set-comprehension-extra)
 
 
 - [Map, Reduce, Filter](https://github.com/TebasMartinez/lab-map-filter-reduce-en)
