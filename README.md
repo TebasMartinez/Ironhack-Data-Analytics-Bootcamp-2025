@@ -1,6 +1,7 @@
 # Ironhack Data Analytics Bootcamp 2025
 
 ## Lab repos:
+Each lab, created by Ironhack in separate repos, forked and solved:
 ### Week 01 - Python Fundamentals
 - [Data Structures](https://github.com/TebasMartinez/lab-python-data-structures)
 - [Data Structures (Extended)](https://github.com/TebasMartinez/lab-python-data-structures-extra)
