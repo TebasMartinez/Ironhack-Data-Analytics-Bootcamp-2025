@@ -14,3 +14,4 @@
 - [Error Handling](https://github.com/TebasMartinez/lab-python-error-handling)
 - [Error Handling (Extended)](https://github.com/TebasMartinez/lab-python-error-handling-extra)
 - [Lambda Functions, Map, Reduce, Filter (Extended)](https://github.com/TebasMartinez/lab-python-lambda-map-reduce-filter)
+- [Mini-project Rock-Paper-Scissors](https://github.com/TebasMartinez/mini-project-rock-paper-scissors)
