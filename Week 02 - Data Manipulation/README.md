@@ -31,3 +31,8 @@ Object Oriented Programming is structured around two main concepts:
   - Methods --> dynamic.
   - Attributes --> static.
   - A class can inherit from another class called superclass or parent class. So the "student" class could inherit from the "human" class.
+
+### 3 types of missing values
+MAR : Missing At Random - Value is missing connected to another value
+MCAR : Missing Completely At Random - Value is missing completely randomly
+MNAR: Missing Not At Random - Value is missing because of a characteristic of the value
