@@ -16,4 +16,13 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 - [Error Handling](https://github.com/TebasMartinez/lab-python-error-handling)
 - [Error Handling (Extended)](https://github.com/TebasMartinez/lab-python-error-handling-extra)
 - [Lambda Functions, Map, Reduce, Filter (Extended)](https://github.com/TebasMartinez/lab-python-lambda-map-reduce-filter)
+
 - [Mini-project Rock-Paper-Scissors](https://github.com/TebasMartinez/mini-project-rock-paper-scissors)
+
+### Week 02 - Data Manipulation
+- [Implementation of Numpy](https://github.com/TebasMartinez/lab-tutorial-implementation-of-numpy)
+- [Pandas](https://github.com/TebasMartinez/lab-dw-pandas)
+- [Pandas concat, joining, and merge](https://github.com/TebasMartinez/lab-pandas-merge-en)
+- [Data Cleaning and Formatting](https://github.com/TebasMartinez/lab-dw-data-cleaning-and-formatting)
+
+- [Mini-project Hangman](https://github.com/TebasMartinez/Ironhack-Data-Analytics-Bootcamp-2025/tree/main/Week%2002%20-%20Data%20Manipulation/mini-project-hangman)

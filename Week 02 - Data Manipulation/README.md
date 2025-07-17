@@ -1,6 +1,12 @@
 # Week 02 - Data Manipulation
 
 ## Lab repos:
+- [Implementation of Numpy](https://github.com/TebasMartinez/lab-tutorial-implementation-of-numpy)
+- [Pandas](https://github.com/TebasMartinez/lab-dw-pandas)
+- [Pandas concat, joining, and merge](https://github.com/TebasMartinez/lab-pandas-merge-en)
+- [Data Cleaning and Formatting](https://github.com/TebasMartinez/lab-dw-data-cleaning-and-formatting)
+
+- [Mini-project Hangman](https://github.com/TebasMartinez/Ironhack-Data-Analytics-Bootcamp-2025/tree/main/Week%2002%20-%20Data%20Manipulation/mini-project-hangman)
 
 ## Notes
 
@@ -33,6 +39,8 @@ Object Oriented Programming is structured around two main concepts:
   - A class can inherit from another class called superclass or parent class. So the "student" class could inherit from the "human" class.
 
 ### 3 types of missing values
-MAR : Missing At Random - Value is missing connected to another value
-MCAR : Missing Completely At Random - Value is missing completely randomly
-MNAR: Missing Not At Random - Value is missing because of a characteristic of the value
+- MAR: Missing At Random - Value is missing connected to another value
+- MCAR: Missing Completely At Random - Value is missing completely randomly
+- MNAR: Missing Not At Random - Value is missing because of a characteristic of the value
+
+### Types of Join
