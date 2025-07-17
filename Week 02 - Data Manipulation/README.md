@@ -5,6 +5,8 @@
 - [Pandas](https://github.com/TebasMartinez/lab-dw-pandas)
 - [Pandas concat, joining, and merge](https://github.com/TebasMartinez/lab-pandas-merge-en)
 - [Data Cleaning and Formatting](https://github.com/TebasMartinez/lab-dw-data-cleaning-and-formatting)
+- [Data Structuring and Combining](https://github.com/TebasMartinez/lab-dw-data-structuring-and-combining/tree/main)
+- [Data Aggregation and filtering](https://github.com/TebasMartinez/lab-dw-data-aggregation-and-filtering)
 
 - [Mini-project Hangman](https://github.com/TebasMartinez/Ironhack-Data-Analytics-Bootcamp-2025/tree/main/Week%2002%20-%20Data%20Manipulation/mini-project-hangman)
 
