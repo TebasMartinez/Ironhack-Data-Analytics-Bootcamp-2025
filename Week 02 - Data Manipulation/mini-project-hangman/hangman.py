@@ -3,10 +3,8 @@ import random
 def main():
     
     """
-        X
-       /|\ 
-        |
-       / \ 
+
+    Hangman game
        
     """
     
@@ -17,44 +15,54 @@ def main():
     Computer has randomly generated a word, you have to guess letter by letter what the generated word is.
     Every time you guess a letter, you are given the opportunity to guess the word.
     You win if you guess the word, or all the letters in the word.
-    If you try to guess and fail, someone might get hurt.
+          
+    If you try to guess and fail 5 times, someone might get hurt.
     
-    Guess correctly and no one will be hurt :)
+    Guess correctly and no one will get hurt :)
     
-    Guess incorrectly 5 times and someone will likely get hurt.
     """)
+
+    # Set-up game
     word = new_word()
     searchable_word = searchify_word(word)
     userlives = 5
     guessed = False
     p1_guess = generate_empty_guess(word)
+
+    #Play
     while True:
-        if userlives > 0:
+        if userlives > 0: #If player has lives left, ask for letter
             guessed, p1_guess = guess_letter(searchable_word, p1_guess)
-        if guessed == False and userlives > 0:
+
+        if guessed == False and userlives > 0: # If player guessed a wrong letter
             userlives = wrong_guess(userlives, p1_guess)
-        elif "".join(p1_guess) == word: # player wins 
+            
+        elif "".join(p1_guess) == word: # If player wins
             playerwins(word)
             return
-        elif userlives == 0: # player loses
-            print(f"You have {userlives} opportunities left. You LOSE. He loses more. \n\n The word was {word}")
+        
+        elif userlives == 0: # If player loses
+            print(f"\n You have {userlives} opportunities left. You LOSE. He loses more. \n\n The word was {word}")
             printhangman(userlives)
             break
-        else: # player guessed a letter but hasn't won yet
-            print(f"{userlives} opportunities left")
-            while True: # ask the player if they would like to guess the word
+
+        else: # If player guesses a letter but hasn't won yet
+            print(f"\n {userlives} opportunities left")
+            while True: # Ask the player if they would like to guess the word
                 finalguess = input("Do you want to try to guess the word or keep with letters? (word/letter)")
-                if finalguess == "word":
+
+                if finalguess == "word": # If player chooses to guess a word
                     wordguess = input("Guess the word (in lower cases): ")
-                    if wordguess == word:
+                    if wordguess == word: # If word is correct, player wins
                         playerwins(word)
                         return
-                    else:
+                    else: # If word is incorrect
                         userlives = wrong_guess(userlives, p1_guess)
-                        print("That wasn't the right word. Someone is kinda getting hurt...")
+                        print("\n That wasn't the right word. Someone is getting hurt...")
                         guessed = False
                         break
-                elif finalguess == "letter":
+
+                elif finalguess == "letter": #If player chooses to guess a letter
                     guessed = False
                     break
 
@@ -80,22 +88,32 @@ def guess_letter(wordtplst, p1_guess):
                 if p1letter == lettertpl[1]:
                     p1_guess[lettertpl[0]] = p1letter
                     guessed = True
-            if guessed == True:
-                print(f"You found a letter! :) \n Current progress: {p1_guess}")
+            if guessed == True: # Player guesses a correct letter
+                print(f"\n You found a letter! :) \n Current progress: {p1_guess}")
                 return True, p1_guess
-            else:
-                print(f"The letter {p1letter} is not in the answer... ")
+            else: # Player guesses a wrong letter
+                print(f"\n The letter {p1letter} is not in the answer... ")
                 return False, p1_guess
         else:
-            print(f"You didn't provide a valid input, don't try to cheat! \n")
+            print(f"\n You didn't provide a valid input, don't try to cheat! \n")
 
 def new_word():
     """
     Chooses a random word from a given list. All words are all lower cases.
     """
-    f = open("words.txt", "r")
+    while True:
+        lang = input("What language would you like the word to be? (Write EN for English and ES for Spanish)")
+        if lang == "EN":
+            f = open("wordsEN.txt", "r")
+            break
+        elif lang == "EN":
+            f = open("wordsES.txt", "r")
+            break
+        else:
+            print("Invalid input. Choose an available language.")
     wordlist = f.read().split("\n")
     word = random.choice(wordlist)
+    f.close()
     return word
 
 def searchify_word(word):
@@ -114,13 +132,13 @@ def wrong_guess(userlives, p1_guess):
     userlives -= 1
     if userlives > 0:
         printhangman(userlives)
-        print(f"You have {userlives} opportunities left")
-        print(f"Current progress: {p1_guess}")
+        print(f"\n You have {userlives} opportunities left")
+        print(f"\n Current progress: {p1_guess}")
     return userlives
 
 def printhangman(userlives):
     if userlives == 4:
-        print(f"""
+        print(r"""
                |------|
                |      |      ---------------------
                |      O -----| Excuse me!        | 
@@ -130,7 +148,7 @@ def printhangman(userlives):
               ___     
                   """)
     elif userlives == 3:
-        print(f"""
+        print(r"""
                |------|
                |      |      ---------------------
                |      O -----| Ok, listen here.  | 
@@ -140,7 +158,7 @@ def printhangman(userlives):
               ___     
                   """)
     elif userlives == 2:
-        print(f"""
+        print(r"""
                |------|
                |      |      -------------------------
                |      O -----| No preasure, mate,    | 
@@ -150,7 +168,7 @@ def printhangman(userlives):
               ___     
                   """)
     elif userlives == 1:
-        print(f"""
+        print(r"""
                |------|
                |      |      -----------------------
                |      O -----| Omg just check a    | 
@@ -160,7 +178,7 @@ def printhangman(userlives):
               ___     
                   """)
     elif userlives == 0:
-        print(f"""
+        print(r"""
                |------|
                |      |      ------------
                |      X -----|   ...    | 
@@ -171,7 +189,7 @@ def printhangman(userlives):
                   """)
         
 def playerwins(word):
-    print(f"""Congratulations!
+    print(r"""Congratulations!
         You guessed the word: {word}
 
        !!!!!! YOU WIN !!!!!!
