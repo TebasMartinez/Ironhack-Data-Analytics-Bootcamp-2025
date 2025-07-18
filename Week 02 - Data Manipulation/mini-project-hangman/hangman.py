@@ -42,7 +42,7 @@ def main():
             return
         
         elif userlives == 0: # If player loses
-            print(f"\n You have {userlives} opportunities left. You LOSE. He loses more. \n\n The word was {word}")
+            print(f"\n You have {userlives} opportunities left. You LOSE. He loses more. \n\n The word was: {word}")
             printhangman(userlives)
             break
 
