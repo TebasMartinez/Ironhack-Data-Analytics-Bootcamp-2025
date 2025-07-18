@@ -49,10 +49,10 @@ def main():
         else: # If player guesses a letter but hasn't won yet
             print(f"\n {userlives} opportunities left")
             while True: # Ask the player if they would like to guess the word
-                finalguess = input("Do you want to try to guess the word or keep with letters? (word/letter)")
+                finalguess = input("Do you want to try to guess the word or keep with letters? (word/letter)  ")
 
                 if finalguess == "word": # If player chooses to guess a word
-                    wordguess = input("Guess the word (in lower cases): ")
+                    wordguess = input("Guess the word (in lower cases):  ")
                     if wordguess == word: # If word is correct, player wins
                         playerwins(word)
                         return
@@ -81,7 +81,7 @@ def guess_letter(wordtplst, p1_guess):
     """
     while True:
         guessed = False
-        p1letter = input("What's your guess? (write a single letter in low cases) ")
+        p1letter = input("What's your guess? (write a single letter in low cases)  ")
         if len(p1letter) == 1 and p1letter.isalpha():
             p1letter = p1letter.lower()
             for lettertpl in wordtplst:
@@ -102,7 +102,7 @@ def new_word():
     Chooses a random word from a given list. All words are all lower cases.
     """
     while True:
-        lang = input("Which language do you want the word in? (Write EN for English and ES for Spanish)")
+        lang = input("Which language do you want the word in? (Write EN for English and ES for Spanish)  ")
         if lang == "EN":
             f = open("wordsEN.txt", "r")
             break
@@ -189,9 +189,11 @@ def printhangman(userlives):
                   """)
         
 def playerwins(word):
-    print(r"""Congratulations!
-        You guessed the word: {word}
-
+    print(f"""
+            Congratulations!
+        You guessed the word: {word} \n
+          """)
+    print(r"""
        !!!!!! YOU WIN !!!!!!
                   
                          ---------------
