@@ -102,7 +102,7 @@ def new_word():
     Chooses a random word from a given list. All words are all lower cases.
     """
     while True:
-        lang = input("What language would you like the word to be? (Write EN for English and ES for Spanish)")
+        lang = input("Which language do you want the word in? (Write EN for English and ES for Spanish)")
         if lang == "EN":
             f = open("wordsEN.txt", "r")
             break
