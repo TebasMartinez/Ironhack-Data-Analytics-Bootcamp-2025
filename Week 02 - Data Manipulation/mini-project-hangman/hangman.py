@@ -106,7 +106,7 @@ def new_word():
         if lang == "EN":
             f = open("wordsEN.txt", "r")
             break
-        elif lang == "EN":
+        elif lang == "ES":
             f = open("wordsES.txt", "r")
             break
         else:
