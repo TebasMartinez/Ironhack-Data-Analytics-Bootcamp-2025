@@ -2,7 +2,12 @@
 
 ## Lab repos:
 Each lab, created by Ironhack in separate repos, forked and solved:
-### Week 01 - Python Fundamentals
+
+<details>
+<summary> 
+  
+### Week 01 - Python Fundamentals </summary>
+
 - [Data Structures](https://github.com/TebasMartinez/lab-python-data-structures)
 - [Data Structures (Extended)](https://github.com/TebasMartinez/lab-python-data-structures-extra)
 - [Data Types (Extended](https://github.com/TebasMartinez/lab-python-data-types-extra)
@@ -18,8 +23,13 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 - [Lambda Functions, Map, Reduce, Filter (Extended)](https://github.com/TebasMartinez/lab-python-lambda-map-reduce-filter)
 
 - [Mini-project Rock-Paper-Scissors](https://github.com/TebasMartinez/mini-project-rock-paper-scissors)
+</details>
 
-### Week 02 - Data Manipulation
+<details>
+<summary>
+  
+### Week 02 - Data Manipulation </summary>
+
 - [Implementation of Numpy](https://github.com/TebasMartinez/lab-tutorial-implementation-of-numpy)
 - [Pandas](https://github.com/TebasMartinez/lab-dw-pandas)
 - [Pandas concat, joining, and merge](https://github.com/TebasMartinez/lab-pandas-merge-en)
@@ -28,3 +38,4 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 - [Data Aggregation and filtering](https://github.com/TebasMartinez/lab-dw-data-aggregation-and-filtering)
 
 - [Mini-project Hangman](https://github.com/TebasMartinez/mini-project-hangman)
+</details>
