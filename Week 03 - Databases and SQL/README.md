@@ -37,3 +37,18 @@ SQL Sublanguages:
 - **DML** (Data Manipulation Language): SELECT.
 
 SQL is a language that follows a declarative [programming paradigm](https://www.geeksforgeeks.org/system-design/introduction-of-programming-paradigms/).
+
+#### Join
+We can join with ON: 
+````
+FROM students
+INNER JOIN courses
+ON students.cid = courses.cid;
+````
+
+or we can join with USING if the columns on which we are joining have the same name:
+````
+FROM students
+INNERJOIN courses
+USING(cid)
+````
