@@ -43,7 +43,7 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 <details>
 <summary>
 
-### Week 3 - Databases and SQL
+### Week 3 - Databases and SQL </summary>
 
 - [MySQL Database Creation](https://github.com/TebasMartinez/lab-sql-mysql-db-creation)
 - [SQL Basic Queries](https://github.com/TebasMartinez/lab-sql-basic-queries)
