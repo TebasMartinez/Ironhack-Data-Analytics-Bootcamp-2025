@@ -3,6 +3,9 @@
 ## Lab repos:
 - [MySQL Database Creation](https://github.com/TebasMartinez/lab-sql-mysql-db-creation)
 - [SQL Basic Queries](https://github.com/TebasMartinez/lab-sql-basic-queries)
+- [SQL Joins](https://github.com/TebasMartinez/lab-sql-joins)
+- [SQL Data Aggregation and Transformation](https://github.com/TebasMartinez/lab-sql-aggregation-and-transformation)
+- [SQL Subqueries](https://github.com/TebasMartinez/lab-sql-subqueries)
 
 - [Mini-project - SQL Database](https://github.com/TebasMartinez/mini-project-sql-database)
 

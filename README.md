@@ -39,3 +39,17 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 
 - [Mini-project Hangman](https://github.com/TebasMartinez/mini-project-hangman)
 </details>
+
+<details>
+<summary>
+
+### Week 3 - Databases and SQL
+
+- [MySQL Database Creation](https://github.com/TebasMartinez/lab-sql-mysql-db-creation)
+- [SQL Basic Queries](https://github.com/TebasMartinez/lab-sql-basic-queries)
+- [SQL Joins](https://github.com/TebasMartinez/lab-sql-joins)
+- [SQL Data Aggregation and Transformation](https://github.com/TebasMartinez/lab-sql-aggregation-and-transformation)
+- [SQL Subqueries](https://github.com/TebasMartinez/lab-sql-subqueries)
+
+- [Mini-project - SQL Database](https://github.com/TebasMartinez/mini-project-sql-database)
+</details>
