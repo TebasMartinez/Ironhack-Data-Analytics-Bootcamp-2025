@@ -1,7 +1,12 @@
 # Week 4 - EDA & Data Visualisation
 
 ## Lab repos:
-
+- [EDA Univariate Analysis](https://github.com/TebasMartinez/lab-eda-univariate)
+- [EDA Bivariate Analysis](https://github.com/TebasMartinez/lab-eda-bivariate)
+- [Tableau](https://github.com/TebasMartinez/lab-tableau)
+- [Tableau Advanced](https://github.com/TebasMartinez/lab-tableau-advanced)
+- [Intro to BI and Tableau](https://github.com/TebasMartinez/lab-intro-to-bi-and-tableau)
+- [Mini Project - BI: Data to Viz](https://github.com/TebasMartinez/mini-project-bi-data-to-viz) 
 
 ## Notes:
 
