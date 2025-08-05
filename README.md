@@ -66,3 +66,10 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 - [Intro to BI and Tableau](https://github.com/TebasMartinez/lab-intro-to-bi-and-tableau)
 - [Mini Project - BI: Data to Viz](https://github.com/TebasMartinez/mini-project-bi-data-to-viz)
 </details>
+
+<details>
+<summary>
+
+### Week 5 - Project 1 </summary>
+- [Project repo](https://github.com/TebasMartinez/DA-Week5-Project)
+</details>
