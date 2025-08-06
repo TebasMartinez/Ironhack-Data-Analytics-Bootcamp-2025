@@ -71,5 +71,5 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 <summary>
 
 ### Week 5 - Project 1 </summary>
-- [Project repo](https://github.com/TebasMartinez/DA-Week5-Project)
+- [Project repo](https://github.com/TebasMartinez/DA-Deutsche-Bahn-delays)
 </details>
