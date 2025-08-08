@@ -26,7 +26,11 @@ Uw = Q3 + 1,5 IQR
 ````
 Lw = Q1 - 1,5 IQR
 ````
+
+(The 1,5 can be changed) \
+One way of handling outliers is filtering out everything above the Upper whisker.  \
 It's a very simple approach of handling outliers, during DA we can use more precise methods.
+
 
 ### P-value
 "Assuming that your assumption is true, how likely are you to see this data?"
