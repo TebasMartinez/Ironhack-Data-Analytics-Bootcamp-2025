@@ -35,7 +35,7 @@ It's a very simple approach of handling outliers, during DA we can use more prec
 ### P-value
 "Assuming that your assumption is true, how likely are you to see this data?"
 A value providing a measure that helps determine if the observed data deviates from my assumptions/hypothesis.
-- If p-value < 0.05, the observed data significantly differs from the expectation that the variables are independent, you have enough evidence against the assumption (so the variables are more likely correlated).
+- If p-value < 0.05, disproof the null hipothesis: the observed data significantly differs from the expectation that the variables are independent, you have enough evidence against the assumption (so the variables are more likely correlated).
 - If p-value >= 0.05, the observed data doesn't deviate much from the expectation that the variables are independed (so the variables are less likely correlated).
 
 ### Tableau
