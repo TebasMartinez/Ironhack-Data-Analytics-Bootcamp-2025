@@ -7,5 +7,9 @@
 - Continuous Probability Distributions #TODO
 - [Goodness of Fit and Independence Tests](https://github.com/TebasMartinez/lab-dsai-goodness-of-fit)
 - [Confidence Intervals Basics](https://github.com/TebasMartinez/lab-confidence-intervals-basics)
+- [Hypothesis Testing](https://github.com/TebasMartinez/lab-hypothesis-testing)
+- [Two Sample Hypothesis Testing](https://github.com/TebasMartinez/lab-dsai-two-sample-hypothesis-tests)
 
 ## Notes:
+Type I error - False positive, the null hypothesis is rejected when it's actually true. \
+Type II error - False negative, the null hypothesis is not rejected when it's actually false.
