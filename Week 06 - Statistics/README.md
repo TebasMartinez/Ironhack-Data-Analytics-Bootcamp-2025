@@ -7,6 +7,7 @@
 - Continuous Probability Distributions #TODO
 - [Goodness of Fit and Independence Tests](https://github.com/TebasMartinez/lab-dsai-goodness-of-fit)
 - [Confidence Intervals Basics](https://github.com/TebasMartinez/lab-confidence-intervals-basics)
+- [Confidence Intervals Challenges](https://github.com/TebasMartinez/lab-confidence-intervals-challenges)
 - [Hypothesis Testing](https://github.com/TebasMartinez/lab-hypothesis-testing)
 - [Two Sample Hypothesis Testing](https://github.com/TebasMartinez/lab-dsai-two-sample-hypothesis-tests)
 
