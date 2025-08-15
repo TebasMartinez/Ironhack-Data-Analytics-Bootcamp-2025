@@ -9,6 +9,7 @@
 - [Confidence Intervals Basics](https://github.com/TebasMartinez/lab-confidence-intervals-basics)
 - [Confidence Intervals Challenges](https://github.com/TebasMartinez/lab-confidence-intervals-challenges)
 - [Hypothesis Testing](https://github.com/TebasMartinez/lab-hypothesis-testing)
+- [Hypothesis Testing Extra](https://github.com/TebasMartinez/lab-hypothesis-testing-en)
 - [Two Sample Hypothesis Testing](https://github.com/TebasMartinez/lab-dsai-two-sample-hypothesis-tests)
 
 ## Notes:
