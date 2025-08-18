@@ -8,6 +8,7 @@
 - [Goodness of Fit and Independence Tests](https://github.com/TebasMartinez/lab-dsai-goodness-of-fit)
 - [Confidence Intervals Basics](https://github.com/TebasMartinez/lab-confidence-intervals-basics)
 - [Confidence Intervals Challenges](https://github.com/TebasMartinez/lab-confidence-intervals-challenges)
+- Inferential statisctis #TODO
 - [Hypothesis Testing](https://github.com/TebasMartinez/lab-hypothesis-testing)
 - [Hypothesis Testing Extra](https://github.com/TebasMartinez/lab-hypothesis-testing-en)
 - [Two Sample Hypothesis Testing](https://github.com/TebasMartinez/lab-dsai-two-sample-hypothesis-tests)
