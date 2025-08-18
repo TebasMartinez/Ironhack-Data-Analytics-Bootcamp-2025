@@ -11,6 +11,7 @@
 - [Hypothesis Testing](https://github.com/TebasMartinez/lab-hypothesis-testing)
 - [Hypothesis Testing Extra](https://github.com/TebasMartinez/lab-hypothesis-testing-en)
 - [Two Sample Hypothesis Testing](https://github.com/TebasMartinez/lab-dsai-two-sample-hypothesis-tests)
+- [Introduction to A/B Testing](https://github.com/TebasMartinez/lab-intro-to-ab-testing)
 
 ## Notes:
 Type I error - False positive, the null hypothesis is rejected when it's actually true. \
