@@ -6,5 +6,3 @@
 - [Window Functions](https://github.com/TebasMartinez/lab-sql-window-functions)
 - [Stored procedures](https://github.com/TebasMartinez/lab-stored-procedures)
 - [Mini Project: SQL Customer Segmentation](https://github.com/TebasMartinez/mini-project-sql-customer-segmentation)
-
-## Notes:
