@@ -73,3 +73,14 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 ### Week 5 - Project 1 </summary>
 - [Project repo](https://github.com/TebasMartinez/DA-Deutsche-Bahn-delays)
 </details>
+
+<details>
+<summary>
+
+### Week 7 - Advanced SQL </summary>
+- [Temporary Tables, Views and CTEs](https://github.com/TebasMartinez/lab-sql-temp-tables-views-ctes/tree/main)
+- [Common table expressions](https://github.com/TebasMartinez/lab-common-table-expressions-en)
+- [Window Functions](https://github.com/TebasMartinez/lab-sql-window-functions)
+- [Stored procedures](https://github.com/TebasMartinez/lab-stored-procedures)
+- [Mini Project: SQL Customer Segmentation](https://github.com/TebasMartinez/mini-project-sql-customer-segmentation)
+</details>
