@@ -84,3 +84,13 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 - [Stored procedures](https://github.com/TebasMartinez/lab-stored-procedures)
 - [Mini Project: SQL Customer Segmentation](https://github.com/TebasMartinez/mini-project-sql-customer-segmentation)
 </details>
+
+<details>
+<summary>
+
+### Week 8 - Advanced Python </summary>
+- [Object-Oriented Programming (OOP) in Python](https://github.com/TebasMartinez/lab-py-oop)
+- [Object Oriented Programming](https://github.com/TebasMartinez/lab-python-oop)
+- [Error Handling in Python](https://github.com/TebasMartinez/lab-py-error-handling/tree/main)
+- [Mini Project: E-commerce Store with Streamlit + MySQL](https://github.com/TebasMartinez/mini-project-ecommerce-streamlit-mysql)
+</details>
