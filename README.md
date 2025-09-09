@@ -94,3 +94,10 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 - [Error Handling in Python](https://github.com/TebasMartinez/lab-py-error-handling/tree/main)
 - [Mini Project: E-commerce Store with Streamlit + MySQL](https://github.com/TebasMartinez/mini-project-ecommerce-streamlit-mysql)
 </details>
+
+<details>
+<summary>
+
+### Week 10 - Project 2 </summary>
+- [Project repo](https://github.com/TebasMartinez/DA-HIV-PrEP)
+- </details>
