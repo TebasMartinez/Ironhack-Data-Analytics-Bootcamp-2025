@@ -100,4 +100,4 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 
 ### Week 10 - Project 2 </summary>
 - [Project repo](https://github.com/TebasMartinez/DA-HIV-PrEP)
-- </details>
+</details>
