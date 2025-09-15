@@ -77,6 +77,22 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 <details>
 <summary>
 
+## Week 6 - Statistics</summary>
+- [Intro to Probability](https://github.com/TebasMartinez/lab-intro-probability)
+- [Basic Probability - Challenges](https://github.com/TebasMartinez/lab-basic-probability-challenges)
+- [Discrete Probability Distributions](https://github.com/TebasMartinez/lab-discrete-probability-distributions-en)
+- [Goodness of Fit and Independence Tests](https://github.com/TebasMartinez/lab-dsai-goodness-of-fit)
+- [Confidence Intervals Basics](https://github.com/TebasMartinez/lab-confidence-intervals-basics)
+- [Confidence Intervals Challenges](https://github.com/TebasMartinez/lab-confidence-intervals-challenges)
+- [Hypothesis Testing](https://github.com/TebasMartinez/lab-hypothesis-testing)
+- [Hypothesis Testing Extra](https://github.com/TebasMartinez/lab-hypothesis-testing-en)
+- [Two Sample Hypothesis Testing](https://github.com/TebasMartinez/lab-dsai-two-sample-hypothesis-tests)
+- [Introduction to A/B Testing](https://github.com/TebasMartinez/lab-intro-to-ab-testing)
+</details>
+
+<details>
+<summary>
+
 ### Week 7 - Advanced SQL </summary>
 - [Temporary Tables, Views and CTEs](https://github.com/TebasMartinez/lab-sql-temp-tables-views-ctes/tree/main)
 - [Common table expressions](https://github.com/TebasMartinez/lab-common-table-expressions-en)
