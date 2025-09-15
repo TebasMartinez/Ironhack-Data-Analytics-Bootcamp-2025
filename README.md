@@ -77,7 +77,7 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 <details>
 <summary>
 
-## Week 6 - Statistics</summary>
+### Week 6 - Statistics</summary>
 - [Intro to Probability](https://github.com/TebasMartinez/lab-intro-probability)
 - [Basic Probability - Challenges](https://github.com/TebasMartinez/lab-basic-probability-challenges)
 - [Discrete Probability Distributions](https://github.com/TebasMartinez/lab-discrete-probability-distributions-en)
