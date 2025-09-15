@@ -14,9 +14,3 @@ Different programming paradigms are:
 
 Python is known for its **Object Oriented Programming** philosophy. The object cointains static properties (attributes) and dynamic properties (methods).
 
-
-Mini-project:
-- User:
-  - name, email, password
-- Orders: starts empty
-
