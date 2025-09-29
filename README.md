@@ -6,7 +6,7 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 <details>
 <summary> 
   
-### Week 01 - Python Fundamentals </summary>
+### Week 1 - Python Fundamentals </summary>
 
 - [Data Structures](https://github.com/TebasMartinez/lab-python-data-structures)
 - [Data Structures (Extended)](https://github.com/TebasMartinez/lab-python-data-structures-extra)
@@ -28,7 +28,7 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 <details>
 <summary>
   
-### Week 02 - Data Manipulation </summary>
+### Week 2 - Data Manipulation </summary>
 
 - [Implementation of Numpy](https://github.com/TebasMartinez/lab-tutorial-implementation-of-numpy)
 - [Pandas](https://github.com/TebasMartinez/lab-dw-pandas)
@@ -114,6 +114,41 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 <details>
 <summary>
 
+### Week 9 - Data Retrieval </summary>
+- [Web Scraping](https://github.com/TebasMartinez/lab-dsai-web-scraping)
+- [API Wrappers](https://github.com/TebasMartinez/lab-dsai-api-wrappers)
+- [Spotify API](https://github.com/TebasMartinez/lab-spotify-api)
+- [Web Scraping - LinkedIn Job Board Scraping](https://github.com/ironhack-labs/lab-scraping-job-board)
+- [Advanced Web Scraping](https://github.com/TebasMartinez/lab-advanced-web-scraping)
+- [Mini Project: API and Web Data Scraping](https://github.com/TebasMartinez/mini-project-api-and-web-data-scraping)
+</details>
+
+<details>
+<summary>
+
 ### Week 10 - Project 2 </summary>
 - [Project repo](https://github.com/TebasMartinez/DA-HIV-PrEP)
+</details>
+
+<details>
+<summary>
+
+### Week 11 - Machine Learning </summary>
+- [Introduction to Scikit-Learn](https://github.com/TebasMartinez/lab-intro-to-sklearn-en)
+- [Introduction to Machine Learning and ML Workflow](https://github.com/TebasMartinez/lab-intro-to-ml-and-ml-workflow)
+- [Feature Engineering](https://github.com/TebasMartinez/lab-feature-engineering)
+- [Regression Exercises](https://github.com/TebasMartinez/lab-dsai-regression-exercises)
+- [Supervised Learning - Classification](https://github.com/TebasMartinez/lab-supervised-classification)
+- [Mini Project: ML - Predictive Model Development and Analysis](https://github.com/TebasMartinez/mini-project-ml-predictive-model-development-and-analysis)
+</details>
+
+<details>
+<summary>
+
+### Week 12 - Machine Learning </summary>
+- [Supervised Learning Model Evaluation](https://github.com/TebasMartinez/lab-supervised-learning-model-evaluation-en)
+- [Imbalanced data](https://github.com/TebasMartinez/lab-imbalanced-data)
+- [Imbalance](https://github.com/TebasMartinez/lab-imbalanced)
+- [Hyperparameter tuning](https://github.com/TebasMartinez/lab-hyperparameter-tuning)
+- [Mini Project: Kaggle Titanic](https://github.com/TebasMartinez/mini-project-kaggle-titanic)
 </details>
