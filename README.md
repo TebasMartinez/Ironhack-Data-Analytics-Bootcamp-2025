@@ -152,3 +152,18 @@ Each lab, created by Ironhack in separate repos, forked and solved:
 - [Hyperparameter tuning](https://github.com/TebasMartinez/lab-hyperparameter-tuning)
 - [Mini Project: Kaggle Titanic](https://github.com/TebasMartinez/mini-project-kaggle-titanic)
 </details>
+
+<details>
+<summary>
+
+### Week 13 - Machine Learning & AI </summary>
+- [Lab Neural Network](https://github.com/TebasMartinez/Ironhack-Data-Analytics-Bootcamp-2025/blob/main/Week%2013%20-%20Machine%20Learning%20%26%20AI/lab-NN.ipynb)
+- [Mini Project: Spotify Recommendation](https://github.com/TebasMartinez/mini-project-spotify-recommendation)
+</details>
+
+<details>
+<summary>
+
+### Weeks 14 & 15 - Final Project </summary>
+- [Link to final project](https://github.com/TebasMartinez/DA-DAX)
+</details>
